@@ -1,0 +1,75 @@
+.contacto
+{
+    margin-top: 10em;
+    color: green;
+    
+    a 
+    {
+        color: green;
+    }
+    
+    h3
+    {
+        color: green;
+        line-height: 2em;
+        text-transform: uppercase;
+    }
+    
+    .btn
+    {
+        border-radius: 0px;
+        color: white;
+        border: 0px;
+        background-color: green;
+    }
+    
+    .correos
+    {
+        margin-top: 2em;
+        line-height: 2em
+    }
+    
+    .telefonos
+    {
+        margin-top: 3em;
+        line-height: 2em;
+    }
+    
+    .fa-mobile
+    {
+        padding-left: .4em;
+    }
+    
+    p 
+    {
+        font-size: 1.5em;
+    }
+    .redes-sociales
+    {
+        .fa
+        {
+            margin-right: .2em;
+        }
+        
+        .fa-facebook-square:hover
+        {
+            color: #3b5998;
+        }
+        
+        .fa-twitter-square:hover
+        {
+            color: #55acee;
+        }
+        
+        .fa-google-plus-square:hover
+        {
+            color: #d34836;
+        }
+        
+        .fa-instagram:hover
+        {
+            color: #848282;
+        }
+        
+    }
+}
